@@ -36,7 +36,7 @@ The application will be important to improve the statistical significance of res
 ## User Roles
 This application is used by Students.
 
-1. Administrator - Dr.Hoot
+1. Administrator - Dr.Hoot123
 2. User
 3. User stories & acceptance criteria checklist - Vyshnavi Yalamareddy
 4. UX sketches & usability - Srimai Reddy Yanala 
